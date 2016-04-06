@@ -3,3 +3,4 @@ i'm lcg
 
 changed by another local repo
 test git fetch
+test git merge
