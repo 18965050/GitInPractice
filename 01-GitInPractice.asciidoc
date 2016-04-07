@@ -5,3 +5,4 @@ changed by another local repo
 test git fetch
 test git merge
 test git merge 2
+
