@@ -13,3 +13,5 @@ test git merge 4
 test git merge 5
 
 test git revert
+
+tes git revert2
