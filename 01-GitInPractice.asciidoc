@@ -6,3 +6,4 @@ test git fetch
 test git merge
 test git merge 2
 
+test git merge 3
