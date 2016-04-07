@@ -9,3 +9,6 @@ test git merge 2
 test git merge 3
 
 test git merge 4
+
+test git merge 5
+
