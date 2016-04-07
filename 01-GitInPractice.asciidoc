@@ -12,3 +12,4 @@ test git merge 4
 
 test git merge 5
 
+test git revert
