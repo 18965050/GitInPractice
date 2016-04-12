@@ -1,11 +1,11 @@
 Git In Practice
 ==============
 
-Manning *Git In Practice* Ò»ÊéÔ´Âë
+Manning *Git In Practice*  ä¸€ä¹¦æºç 
 
 ## Pre-requisites
 - git-2.4.6.tar.gz
 - SourceTreeSetup_1.6.14.exe
 
-## ¶ÁÊé±Ê¼Ç
+## è¯»ä¹¦ç¬”è®°
 https://github.com/18965050/GitInPractice/wiki
